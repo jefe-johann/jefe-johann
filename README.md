@@ -1,6 +1,6 @@
 # Hi, I'm Jeff 👋
 
-I like to build **smart utilities** and **automation tools** that solve specific, real-world friction points. From macOS system management to specialized productivity apps, I build things that make tech feel a little more seamless.
+I like to build **smart utilities** and **automation tools** that solve specific, real-world friction points. From macOS system management to specialized productivity apps, I build things that make my life easier.
 
 ---
 
