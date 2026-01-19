@@ -21,7 +21,8 @@ These are mostly built, but haven't been brought to Github yet. Let me know if y
 ---
 
 ## 🐉 About Me
-> I run my own prop securities trading firm, Green Dragon Securities. I'm also an herbalist. And I like building things. I'm pretty new to Github.
+
+I run my own prop securities trading firm, Green Dragon Securities. I'm also an herbalist. And I like building things. I'm pretty new to Github. I currently split my time between Vermont and NYC. 
 
 
 ---
