@@ -16,7 +16,7 @@ These are mostly built, but haven't been brought to Github yet. Let me know if y
 * **ShotCaller** – An AI-powered vision tool that analyzes your screenshots and automatically renames them with descriptive filenames (Python/Swift).
 * **YarrowLines** – A Flutter-based I Ching divination app that preserves traditional yarrow stalk mathematics and manual human interaction.
 * **Gmail Sweeper** – A Google Apps Script utility for automated Gmail cleanup based on custom filter configurations in Google Sheets. For instance, I get a lot of newsletters, special offers, etc. I don't want to immediately delete them, because I may want to read it. But, if I haven't gotten to it in a week, at that point it's just taking up space. This script lets you set different rules based on sender, keywords, etc, and have them auto-delete/archive after a certain amount of days. 
-* **Binaural Affirmations** – A Python generator that combines ElevenLabs TTS with binaural beats for custom meditation and sleep tracks.
+* **Entrain** – A Python generator that combines ElevenLabs text-to-speech with binaural beats for custom affirmations, meditation and sleep tracks.
 
 ---
 
