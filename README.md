@@ -9,7 +9,7 @@ I like to build **smart utilities** and **automation tools** that solve specific
 ### 🚀 Available Now
 * **[EasyDMG](https://github.com/jefe-johann/EasyDMG)** – Automate DMG installations on macOS. Set it as your default handler to mount, copy, and clean up app installs with zero clicks.
 * **[PIA-PanicGuard](https://github.com/jefe-johann/PIA-PanicGuard)** – A smart sleep management utility for macOS. It prevents kernel panics by gracefully handling VPN connections, external drives, and apps before the system sleeps.
-* **[Grab OTP](https://github.com/jefe-johann/grab-otp)** – A cross-browser extension that automatically retrieves and fills verification codes from your Gmail based on your active website.
+* **[Grab OTP](https://github.com/jefe-johann/grab-otp)** – A cross-browser extension that automatically retrieves and fills verification codes from your Gmail based on your active website. This one still needs some work, especially for Firefox.
 
 ### 🏗️ Coming Soon
 These are mostly built, but haven't been brought to Github yet. Let me know if you're interested and I can put it higher on my priority list!
