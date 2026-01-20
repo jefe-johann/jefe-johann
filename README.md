@@ -17,6 +17,7 @@ These are mostly built, but haven't been brought to Github yet. Let me know if y
 * **YarrowLines** – A Flutter-based I Ching divination app that preserves traditional yarrow stalk mathematics and manual human interaction.
 * **Gmail Sweeper** – A Google Apps Script utility for automated Gmail cleanup based on custom filter configurations in Google Sheets. For instance, I get a lot of newsletters, special offers, etc. I don't want to immediately delete them, because I may want to read it. But, if I haven't gotten to it in a week, at that point it's just taking up space. This script lets you set different rules based on sender, keywords, etc, and have them auto-delete/archive after a certain amount of days. 
 * **Entrain** – A Python generator that combines ElevenLabs text-to-speech with binaural beats for custom affirmations, meditation and sleep tracks.
+* **Rainstorm** - Generate rainstorms on your computer/phone. Sync with local weather, or just have intermittent rain throughout the day. Wash away your stress! Flutter app for all platforms.
 
 ---
 
