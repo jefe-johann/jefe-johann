@@ -9,13 +9,13 @@ I like to build **smart utilities** and **automation tools** that solve specific
 ### 🚀 Available Now
 * **[EasyDMG](https://github.com/jefe-johann/EasyDMG)** – Automate DMG installations on macOS. Set it as your default handler to mount, copy, and clean up app installs with zero clicks.
 * **[PIA-PanicGuard](https://github.com/jefe-johann/PIA-PanicGuard)** – A smart sleep management utility for macOS. It prevents kernel panics by gracefully handling VPN connections, external drives, and apps before the system sleeps.
+* **[Gmail Sweeper](https://github.com/jefe-johann/GmailSweeper)** – A Google Apps Script utility for automated Gmail cleanup based on custom filter configurations in Google Sheets. For instance, I get a lot of newsletters, special offers, etc. I don't want to immediately delete them, because I may want to read it. But, if I haven't gotten to it in a week, at that point it's just taking up space. This script lets you set different rules based on sender, keywords, etc, and have them auto-delete/archive after a certain amount of days. 
 * **[Grab OTP](https://github.com/jefe-johann/grab-otp)** – A cross-browser extension that automatically retrieves and fills verification codes from your Gmail based on your active website. This one still needs some work, especially for Firefox.
 
 ### 🏗️ Coming Soon
 These are mostly built, but haven't been brought to Github yet. Let me know if you're interested and I can put it higher on my priority list!
 * **ShotCaller** – An AI-powered vision tool that analyzes your screenshots and automatically renames them with descriptive filenames (Python/Swift).
 * **YarrowLines** – A Flutter-based I Ching divination app that preserves traditional yarrow stalk mathematics and manual human interaction.
-* **Gmail Sweeper** – A Google Apps Script utility for automated Gmail cleanup based on custom filter configurations in Google Sheets. For instance, I get a lot of newsletters, special offers, etc. I don't want to immediately delete them, because I may want to read it. But, if I haven't gotten to it in a week, at that point it's just taking up space. This script lets you set different rules based on sender, keywords, etc, and have them auto-delete/archive after a certain amount of days. 
 * **Entrain** – A Python generator that combines ElevenLabs text-to-speech with binaural beats for custom affirmations, meditation and sleep tracks.
 * **Rainstorm** - Generate rainstorms on your computer/phone. Sync with local weather, or just have intermittent rain throughout the day. Wash away your stress! Flutter app for all platforms.
 
