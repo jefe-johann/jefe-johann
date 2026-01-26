@@ -10,7 +10,7 @@ I like to build **smart utilities** and **automation tools** that solve specific
 * **[EasyDMG](https://github.com/jefe-johann/EasyDMG)** – Automate DMG installations on macOS. Set it as your default handler to mount, copy, and clean up app installs with zero clicks.
 * **[PIA-PanicGuard](https://github.com/jefe-johann/PIA-PanicGuard)** – A smart sleep management utility for macOS. It prevents Private Internet Access VPN from causing kernel panics by gracefully handling VPN connections, external drives, and apps before the system sleeps.
 * **[Gmail Sweeper](https://github.com/jefe-johann/GmailSweeper)** – A Google Apps Script utility for automated Gmail cleanup based on custom filter configurations in Google Sheets. For instance, I get a lot of newsletters, special offers, etc. I don't want to immediately delete them, because I may want to read it. But, if I haven't gotten to it in a week, at that point it's just taking up space. This script lets you set different rules based on sender, keywords, etc, and have them auto-delete/archive after a certain amount of days. 
-* **[Grab OTP](https://github.com/jefe-johann/grab-otp)** – A cross-browser extension that automatically retrieves and fills verification codes from your Gmail based on your active website. This one still needs some work, especially for Firefox.
+* **[Grab OTP](https://github.com/jefe-johann/grab-otp)** – A cross-browser extension that automatically retrieves and fills verification codes from your Gmail based on your active website. Have some upgrades to this coming soon, but it's usable.
 
 ### 🏗️ Coming Soon
 These are mostly built, but haven't been brought to Github yet. Let me know if you're interested and I can put it higher on my priority list!
