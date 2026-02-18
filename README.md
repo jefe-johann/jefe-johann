@@ -1,10 +1,10 @@
 # Hi, I'm Jeff 👋
 
-I like to build **smart utilities** and **automation tools** that solve specific, real-world friction points. From macOS system management to specialized productivity apps, I build things that make my life easier.
+Sometimes I build things because they don't exist yet, and I want them to. Sometimes just for fun.
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Projects
 
 ### 🚀 Available Now
 * **[EasyDMG](https://github.com/jefe-johann/EasyDMG)** – Automate DMG installations on macOS. Set it as your default handler to mount, copy, and clean up app installs with zero clicks.
@@ -22,15 +22,8 @@ These are mostly built, but haven't been brought to Github yet. Let me know if y
 * **FitFact** - Struggle with motivation to work out? Me too. This small app gives you daily reasons to exercise, with real peer reviewed studies on the many, many health benefits. Not motivational platitudes. That's what motivates me :)
 * **PhotoRatr** - Community voting app to improve dating app photos. Sometimes, when you think you look good, you don't 😭
 
----
-
-## 🐉 About Me
-
-I run my own prop securities trading firm, Green Dragon Securities. I'm also an herbalist. And I like building things. I'm pretty new to Github. I currently split my time between Vermont and NYC. 
-
 
 ---
 
 ## 📫 Connect with me
 - **Email:** jeffschumann.dev@gmail.com
-- **Website** Coming Soon
