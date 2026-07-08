@@ -3,7 +3,7 @@
 ## Projects
 
 ### Available Now
-* **[RainStorm](https://www.rainstormapp.com)** - Releasing soon on the Mac App Store! RainStorm is a native macOS menubar app that overlays a beautiful, procedural rain simulation directly onto your desktop, so you can work, focus, and breathe while the rain falls around you.
+* **[RainStorm](https://www.rainstormapp.com)** - Download on the Mac App Store! RainStorm is a native macOS menubar app that overlays a beautiful, procedural rain simulation directly onto your desktop, so you can work, focus, and breathe while the rain falls around you.
 * **[EasyDMG](https://github.com/jeff-schumann/EasyDMG)** – Automate DMG installations on macOS. Set it as your default handler to mount, copy, and clean up app installs with zero clicks. Check out https://www.EasyDMG.app
 * **[Display-Anchor](https://github.com/jeff-schumann/display-anchor)** - When using MacOS with external monitors, waking from sleep can cause windows to be shuffled between monitors as they wake up at different speeds. This tiny utility takes a snapshot before sleep, then restores it upon wake. There are similar apps out there with many more features for restoring custom workspaces etc. This tool is much simpler, designed only to alleviate the wake issue.
 * **[Grab OTP](https://github.com/jeff-schumann/grab-otp)** – A cross-browser extension that automatically retrieves and fills verification codes from your Gmail based on your active website. Recently added support for SMS as well!
